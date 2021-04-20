@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.exe
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.deps.json
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.runtimeconfig.json
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.runtimeconfig.dev.json
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.dll
+C:\Users\hp\source\repos\QueueTask\QueueTask\bin\Debug\netcoreapp3.1\QueueTask.pdb
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.dll
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.pdb
+C:\Users\hp\source\repos\QueueTask\QueueTask\obj\Debug\netcoreapp3.1\QueueTask.genruntimeconfig.cache

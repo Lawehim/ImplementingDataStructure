@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.exe
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.deps.json
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.runtimeconfig.json
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.dll
+C:\Users\hp\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.pdb
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.dll
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.pdb
+C:\Users\hp\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.genruntimeconfig.cache
